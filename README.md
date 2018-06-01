@@ -1,6 +1,6 @@
 # -CN-Stripping-IP-packets
  - 2017년 1학기 성균관대학교 최형기 교수님 컴퓨터네트웤개론 수업 2번째 과제
- - Wireshark 프로그램을 이용한 IPv4 패킷 분석 및 추적
+ - IPv4 패킷 분석 및 추적 프로그램
  - 2017 1st semester Sungkyunkwan University Professor Hyoung-Kee Choi's Introduction to Computer Networking class, 2nd assignment
  - IPv4 packet analysis and tracking using Wireshark program
 

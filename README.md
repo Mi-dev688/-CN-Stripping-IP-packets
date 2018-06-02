@@ -139,3 +139,4 @@ typedef struct ip_header_{
  
 ## 4. Future work
  - 위의 코드는 Windows 10 OS 상에서 구현하였다. 운영체제에 따라 엔디안 방식이 달라지기 때문에, Linux OS에서도 구현해봄으로써 차이점을 분석한다.
+ - 현재(2018년 1학기) 듣고있는 보안공학 수업의 term project 주제 또한 packet 분석이다. 이번에는 IPv4 protocol이 아닌, zigbee protocol의 packet을 분석하는데, 방법은 동일하지만 packet header 등의 구조가 다르기 때문에 이를 고려하여 프로젝트를 진행할 예정이다. 이에 대한 코드 또한 업로드 할 예정이다.
